@@ -104,7 +104,7 @@ void setup(void)
 
     Serial.begin(115200);
     Serial.println(F("Adafruit Bluefruit App Controller Example"));
-    Serial.println(F("--------------------alexrocks---------------------"));
+    Serial.println(F("--------------------alexrocksforreal---------------------"));
 
     /* Initialise the module */
     Serial.print(F("Initialising the Bluefruit LE module: "));
